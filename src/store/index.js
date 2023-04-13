@@ -26,3 +26,4 @@ store.dispatch({
 });
 
 export { store };
+export const { addSong } = songsSlice.actions;

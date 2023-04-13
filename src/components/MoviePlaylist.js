@@ -8,6 +8,7 @@ function MoviePlaylist() {
   const handleMovieAdd = (movie) => {
     // To Do:
     // Add movie to list of movies
+    console.log(movie)
   };
   const handleMovieRemove = (movie) => {
     // To Do:
