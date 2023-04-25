@@ -47,6 +47,6 @@ function MoviePlaylist() {
       <ul>{renderedMovies}</ul>
     </div>
   );
-}
+};
 
 export default MoviePlaylist;
