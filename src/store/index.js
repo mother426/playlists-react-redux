@@ -11,6 +11,5 @@ const store = configureStore({
 });
 
 const startingState = store.getState();
-console.log(JSON.stringify(startingState));
 
 export { store, addSong, removeSong, addMovie, removeMovie, reset };
